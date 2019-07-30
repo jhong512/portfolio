@@ -5,8 +5,6 @@ body {
 	font-family: Palatino,Palatino Linotype,Palatino LT STD,Book Antiqua,Georgia,serif; 
 }
 
-
-
 h1 {
 	color: blue;
 	font-family: Futura,Trebuchet MS,Arial,sans-serif;
@@ -31,7 +29,7 @@ h1 {
 .caravan {
 	margin: auto;
 	width: 100px;
-	
+
 }
 
 img {
@@ -44,6 +42,11 @@ a:link {
 
 a:hover {
 	text-decoration: underline;
+}
+
+a:visited {
+	text-decoration: none;
+	color: blue;
 }
 
 .headerLinks {
