@@ -2,21 +2,21 @@ body {
 	width: 550px;
 	height: 1100px;
 	margin: auto;
-	font-size: 16px;
-	font-family: Palatino,Palatino Linotype,Palatino LT STD,Book Antiqua,Georgia,serif; 
+	font-size: 14px;
+	font-family: 'Martel', serif;
 }
 
 h1 {
 	color: blue;
-	font-family: Futura,Trebuchet MS,Arial,sans-serif;
-	font-size: 40px;
+	font-family: 'Roboto Mono', monospace;
+	font-size: 50px;
 	letter-spacing:-1.5px;
 	line-height:10px;
 	text-align: left;
 }
 
 .headshot {
-	width: 100px;
+	width: 125px;
 	position: relative;
  	right: 0px;
  	float: right;
