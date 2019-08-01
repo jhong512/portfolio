@@ -23,36 +23,13 @@ h1 {
  	top: 0px;
 }
 
-.schoolbus {
-	width: 30px;
-}
-
-.caravan {
-	margin: auto;
-	width: 100px;
-}
-
-.icons {
-	margin: auto;
-	width: 100px;
-	line-height: 60px;
-}
-
-img {
-	width: 550px;
-}
-
-a:link {
-	text-decoration: none;
-}
-
-a:hover {
-	text-decoration: underline;
-}
-
-a:visited {
-	text-decoration: none;
+.headerLinks {
 	color: blue;
+	font-family: Futura,Trebuchet MS,Arial,sans-serif;
+	font-size: 40px;
+	letter-spacing:-1.5px;
+	line-height:10px;
+	text-align: left;
 }
 
 .headerLinks {
@@ -61,18 +38,3 @@ a:visited {
 	line-height: 20px;
 	text-decoration: none;
 	}
-
-a:link.bodyLinks {
-	text-decoration: underline;
-	color: #7FFF00; 
-	font-weight:bold;
-}
-
-a:visited.bodyLinks {
-	text-decoration: underline;
-	color: #7FFF00; 
-	font-weight:bold;
-}
-
-
-

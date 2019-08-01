@@ -1,0 +1,38 @@
+body {
+	width: 550px;
+	height: auto;
+	margin: auto;
+	font-size: 16px;
+	font-family: Palatino,Palatino Linotype,Palatino LT STD,Book Antiqua,Georgia,serif; 
+}
+
+h1 {
+	color: blue;
+	font-family: Futura,Trebuchet MS,Arial,sans-serif;
+	font-size: 40px;
+	letter-spacing:-1.5px;
+	line-height:10px;
+	text-align: left;
+}
+
+a:link {
+	text-decoration: underline;
+	color: #7FFF00; 
+	font-weight:bold;
+}
+
+a:visited {
+	text-decoration: underline;
+	color: #7FFF00; 
+	font-weight:bold;
+}
+
+.schoolbus {
+	width: 30px;
+}
+
+.caravan {
+	margin: auto;
+	width: 100px;
+
+}
